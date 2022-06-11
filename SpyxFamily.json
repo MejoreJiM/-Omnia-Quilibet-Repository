@@ -6,11 +6,13 @@
   "cover": "",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "MISSION 1",
       "volume": "1",
       "last_updated": "1654938939",
       "groups": {
-        "MISSION 1": "https://spyxfamily.me/comic/spy-x-family-manga-chapter-1/"
+        "": [
+          "https://drive.google.com/uc?export=view&id=1tBYpeK3cJJ9angaeQhC0GJTe5Hs2UeGA"
+        ]
       }
     }
   }
